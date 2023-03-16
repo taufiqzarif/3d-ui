@@ -1,0 +1,54 @@
+#captcha{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 800px;
+    background-color: #2d3748;
+}
+
+#padding{
+    padding-top: 20px;
+}
+
+#canv{
+    height: 70px;
+}
+
+#reload_href{
+    font-weight: 200;
+    color: white !important;
+    font-family: sans-serif;
+    font-size: medium;
+}
+
+#form-group{
+    height: 220px;
+    background-color: #2d3748;
+    border-style: solid;
+    border-width: 0.6ch;
+}
+
+#reload{
+    background-color: steelblue;
+}
+
+#button{
+    background-color: steelblue;
+    border: 0px;
+    font-weight: bold;
+}
+
+#user_captcha_input{
+    text-align: center;
+}
+
+#services{
+    text-align: center;
+}
+
+#services .ant-btn{
+    margin-top: 15px;
+    border-color : black !important;
+    width: -webkit-fill-available;
+}
